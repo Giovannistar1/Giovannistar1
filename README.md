@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Giovannistar1
-- 👀 I’m interested in computer science and computer engineering
-- 🌱 I’m currently learning databases
-- 💞️ I’m looking to collaborate on different coding project through microsoft teams
-- 📫 How to reach me giovannipaniccia@aol.com
+- 👋 Hi, I’m Hugo Romero-Panicia
+- 👀 I’m interested in software engineering and controls engineering
+- 🌱 I’m currently learning cyber security concepts
+- 💞️ I’m looking to collaborate on different coding projects through Microsoft teams
+- 📫 How to reach me Hugor@my.ccsu.edu
 
 <!---
 Giovannistar1/Giovannistar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
